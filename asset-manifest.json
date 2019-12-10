@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/housera/static/css/main.9fa3dfeb.chunk.css",
+    "main.js": "/housera/static/js/main.1c82d1ce.chunk.js",
+    "main.js.map": "/housera/static/js/main.1c82d1ce.chunk.js.map",
+    "runtime-main.js": "/housera/static/js/runtime-main.32fc8177.js",
+    "runtime-main.js.map": "/housera/static/js/runtime-main.32fc8177.js.map",
+    "static/js/2.99c85d72.chunk.js": "/housera/static/js/2.99c85d72.chunk.js",
+    "static/js/2.99c85d72.chunk.js.map": "/housera/static/js/2.99c85d72.chunk.js.map",
+    "index.html": "/housera/index.html",
+    "precache-manifest.b2b89fa438a3865400dec5b145f47b72.js": "/housera/precache-manifest.b2b89fa438a3865400dec5b145f47b72.js",
+    "service-worker.js": "/housera/service-worker.js",
+    "static/css/main.9fa3dfeb.chunk.css.map": "/housera/static/css/main.9fa3dfeb.chunk.css.map",
+    "static/media/all.css": "/housera/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32fc8177.js",
+    "static/js/2.99c85d72.chunk.js",
+    "static/css/main.9fa3dfeb.chunk.css",
+    "static/js/main.1c82d1ce.chunk.js"
+  ]
+}
