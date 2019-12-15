@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/housera/precache-manifest.b2b89fa438a3865400dec5b145f47b72.js"
+  "/housera/precache-manifest.20e720d4cb4dcc511b7d08280dcf2263.js"
 );
 
 self.addEventListener('message', (event) => {
