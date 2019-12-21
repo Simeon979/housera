@@ -1,26 +1,25 @@
 {
   "files": {
     "main.css": "/housera/static/css/main.9fa3dfeb.chunk.css",
-    "main.js": "/housera/static/js/main.8a6a7370.chunk.js",
-    "main.js.map": "/housera/static/js/main.8a6a7370.chunk.js.map",
+    "main.js": "/housera/static/js/main.d81b4b6a.chunk.js",
+    "main.js.map": "/housera/static/js/main.d81b4b6a.chunk.js.map",
     "runtime-main.js": "/housera/static/js/runtime-main.32fc8177.js",
     "runtime-main.js.map": "/housera/static/js/runtime-main.32fc8177.js.map",
-    "static/js/2.211f0484.chunk.js": "/housera/static/js/2.211f0484.chunk.js",
-    "static/js/2.211f0484.chunk.js.map": "/housera/static/js/2.211f0484.chunk.js.map",
+    "static/js/2.f5b5f267.chunk.js": "/housera/static/js/2.f5b5f267.chunk.js",
+    "static/js/2.f5b5f267.chunk.js.map": "/housera/static/js/2.f5b5f267.chunk.js.map",
     "index.html": "/housera/index.html",
-    "precache-manifest.b949a8e47bd097284d50690cab2a755a.js": "/housera/precache-manifest.b949a8e47bd097284d50690cab2a755a.js",
+    "precache-manifest.95ede1b32f3bff4577e33cdd7f5b3065.js": "/housera/precache-manifest.95ede1b32f3bff4577e33cdd7f5b3065.js",
     "service-worker.js": "/housera/service-worker.js",
     "static/css/main.9fa3dfeb.chunk.css.map": "/housera/static/css/main.9fa3dfeb.chunk.css.map",
     "static/media/background.svg": "/housera/static/media/background.d5aef77c.svg",
     "static/media/cloud1.svg": "/housera/static/media/cloud1.b35c1cac.svg",
     "static/media/cloud2.svg": "/housera/static/media/cloud2.f4d2bff6.svg",
-    "static/media/all.css": "/housera/static/media/fa-solid-900.c2801fb4.svg",
-    "static/media/naira.svg": "/housera/static/media/naira.42eacec3.svg"
+    "static/media/all.css": "/housera/static/media/fa-solid-900.c2801fb4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.32fc8177.js",
-    "static/js/2.211f0484.chunk.js",
+    "static/js/2.f5b5f267.chunk.js",
     "static/css/main.9fa3dfeb.chunk.css",
-    "static/js/main.8a6a7370.chunk.js"
+    "static/js/main.d81b4b6a.chunk.js"
   ]
 }
