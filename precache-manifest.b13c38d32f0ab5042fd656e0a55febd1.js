@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef21683df3f7c7e082465da83458a226",
+    "revision": "9bd98056a9e2b71a2a547c688d6de3d7",
     "url": "/housera/index.html"
   },
   {
-    "revision": "aa5d16361db3095eca22",
-    "url": "/housera/static/css/main.9fa3dfeb.chunk.css"
+    "revision": "db1e772bd3192a8e673e",
+    "url": "/housera/static/css/main.92e2db6c.chunk.css"
   },
   {
-    "revision": "446dfeb2bf19aedc8c4f",
-    "url": "/housera/static/js/2.f5b5f267.chunk.js"
+    "revision": "0add1b1e6f8743c2d691",
+    "url": "/housera/static/js/2.2ee94da8.chunk.js"
   },
   {
-    "revision": "aa5d16361db3095eca22",
-    "url": "/housera/static/js/main.d81b4b6a.chunk.js"
+    "revision": "db1e772bd3192a8e673e",
+    "url": "/housera/static/js/main.9e59a9f4.chunk.js"
   },
   {
     "revision": "2629340076ddf88519b9",
@@ -22,6 +22,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d5aef77c260ee4101e4154ca30d4b3fa",
     "url": "/housera/static/media/background.d5aef77c.svg"
+  },
+  {
+    "revision": "349934b31b3b7d587193c60558a6a939",
+    "url": "/housera/static/media/bottom-left.349934b3.svg"
+  },
+  {
+    "revision": "6cd04e51cc0a9f6fc75bbe6f57c6d696",
+    "url": "/housera/static/media/bottom.6cd04e51.svg"
+  },
+  {
+    "revision": "f71fa65f19ffe8bcff5dd717b32f804f",
+    "url": "/housera/static/media/center-left.f71fa65f.svg"
+  },
+  {
+    "revision": "15583a2d0c33b743b9d139b758723093",
+    "url": "/housera/static/media/center-right.15583a2d.svg"
   },
   {
     "revision": "b35c1cac6e9ee6260e99b976cfe4f572",
@@ -90,5 +106,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2801fb415f03c7b170934769d7b5397",
     "url": "/housera/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  {
+    "revision": "73f2feb9baccd4d46fe9916c5abc141e",
+    "url": "/housera/static/media/top-left.73f2feb9.svg"
   }
 ]);
