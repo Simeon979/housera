@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/housera/static/css/main.92e2db6c.chunk.css",
-    "main.js": "/housera/static/js/main.a1404676.chunk.js",
-    "main.js.map": "/housera/static/js/main.a1404676.chunk.js.map",
+    "main.css": "/housera/static/css/main.7c1dab15.chunk.css",
+    "main.js": "/housera/static/js/main.c329770a.chunk.js",
+    "main.js.map": "/housera/static/js/main.c329770a.chunk.js.map",
     "runtime-main.js": "/housera/static/js/runtime-main.32fc8177.js",
     "runtime-main.js.map": "/housera/static/js/runtime-main.32fc8177.js.map",
-    "static/js/2.84c68bf2.chunk.js": "/housera/static/js/2.84c68bf2.chunk.js",
-    "static/js/2.84c68bf2.chunk.js.map": "/housera/static/js/2.84c68bf2.chunk.js.map",
+    "static/js/2.0b0797c2.chunk.js": "/housera/static/js/2.0b0797c2.chunk.js",
+    "static/js/2.0b0797c2.chunk.js.map": "/housera/static/js/2.0b0797c2.chunk.js.map",
     "index.html": "/housera/index.html",
-    "precache-manifest.202dde9a32b19fc0551e69f10be0a6dd.js": "/housera/precache-manifest.202dde9a32b19fc0551e69f10be0a6dd.js",
+    "precache-manifest.29bd639f05718d70870a48fdfb3a4782.js": "/housera/precache-manifest.29bd639f05718d70870a48fdfb3a4782.js",
     "service-worker.js": "/housera/service-worker.js",
-    "static/css/main.92e2db6c.chunk.css.map": "/housera/static/css/main.92e2db6c.chunk.css.map",
-    "static/media/background.svg": "/housera/static/media/background.7300528a.svg",
+    "static/css/main.7c1dab15.chunk.css.map": "/housera/static/css/main.7c1dab15.chunk.css.map",
+    "static/media/background.svg": "/housera/static/media/background.206fa0cb.svg",
     "static/media/bottom-left.svg": "/housera/static/media/bottom-left.349934b3.svg",
     "static/media/bottom.svg": "/housera/static/media/bottom.6cd04e51.svg",
     "static/media/center-left.svg": "/housera/static/media/center-left.f71fa65f.svg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.32fc8177.js",
-    "static/js/2.84c68bf2.chunk.js",
-    "static/css/main.92e2db6c.chunk.css",
-    "static/js/main.a1404676.chunk.js"
+    "static/js/2.0b0797c2.chunk.js",
+    "static/css/main.7c1dab15.chunk.css",
+    "static/js/main.c329770a.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93e4b8b9dc0478fb7554bc1d31984ec4",
+    "revision": "c1be7ad1e86ffce0db4042e87aa00c10",
     "url": "/housera/index.html"
   },
   {
-    "revision": "2090c3c796be073310f0",
-    "url": "/housera/static/css/main.92e2db6c.chunk.css"
+    "revision": "1b6ef23ca5cfd334ec41",
+    "url": "/housera/static/css/main.7c1dab15.chunk.css"
   },
   {
-    "revision": "735ccc0b23154d3ad165",
-    "url": "/housera/static/js/2.84c68bf2.chunk.js"
+    "revision": "a83b1166bb946e8b9156",
+    "url": "/housera/static/js/2.0b0797c2.chunk.js"
   },
   {
-    "revision": "2090c3c796be073310f0",
-    "url": "/housera/static/js/main.a1404676.chunk.js"
+    "revision": "1b6ef23ca5cfd334ec41",
+    "url": "/housera/static/js/main.c329770a.chunk.js"
   },
   {
     "revision": "2629340076ddf88519b9",
     "url": "/housera/static/js/runtime-main.32fc8177.js"
   },
   {
-    "revision": "7300528a2227bd1929cbd8a09011bcbf",
-    "url": "/housera/static/media/background.7300528a.svg"
+    "revision": "206fa0cb9016633dfbc828bf6afe210d",
+    "url": "/housera/static/media/background.206fa0cb.svg"
   },
   {
     "revision": "349934b31b3b7d587193c60558a6a939",
