@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/housera/static/css/main.7c1dab15.chunk.css",
-    "main.js": "/housera/static/js/main.c329770a.chunk.js",
-    "main.js.map": "/housera/static/js/main.c329770a.chunk.js.map",
+    "main.js": "/housera/static/js/main.66a16a4c.chunk.js",
+    "main.js.map": "/housera/static/js/main.66a16a4c.chunk.js.map",
     "runtime-main.js": "/housera/static/js/runtime-main.32fc8177.js",
     "runtime-main.js.map": "/housera/static/js/runtime-main.32fc8177.js.map",
-    "static/js/2.0b0797c2.chunk.js": "/housera/static/js/2.0b0797c2.chunk.js",
-    "static/js/2.0b0797c2.chunk.js.map": "/housera/static/js/2.0b0797c2.chunk.js.map",
+    "static/js/2.c22a8f94.chunk.js": "/housera/static/js/2.c22a8f94.chunk.js",
+    "static/js/2.c22a8f94.chunk.js.map": "/housera/static/js/2.c22a8f94.chunk.js.map",
     "index.html": "/housera/index.html",
-    "precache-manifest.29bd639f05718d70870a48fdfb3a4782.js": "/housera/precache-manifest.29bd639f05718d70870a48fdfb3a4782.js",
+    "precache-manifest.80765f4842a9f3e902fa7e6b76c2fe34.js": "/housera/precache-manifest.80765f4842a9f3e902fa7e6b76c2fe34.js",
     "service-worker.js": "/housera/service-worker.js",
     "static/css/main.7c1dab15.chunk.css.map": "/housera/static/css/main.7c1dab15.chunk.css.map",
     "static/media/background.svg": "/housera/static/media/background.206fa0cb.svg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.32fc8177.js",
-    "static/js/2.0b0797c2.chunk.js",
+    "static/js/2.c22a8f94.chunk.js",
     "static/css/main.7c1dab15.chunk.css",
-    "static/js/main.c329770a.chunk.js"
+    "static/js/main.66a16a4c.chunk.js"
   ]
 }
