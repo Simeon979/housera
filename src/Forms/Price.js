@@ -9,11 +9,10 @@ const keyValue = [
   ["100, 000 - 150, 000", "hundredToOneFifty"],
   ["150, 000 - 200, 000", "oneFiftyToTwoHundred"],
   ["200, 000 - 350, 000", "twoHundredtoThreeFifty"],
-  ["350, 000 and above", "threeFiftyAndAbove"],
-  ["500, 000", "fh"]
+  ["350, 000 and above", "threeFiftyAndAbove"]
 ];
 
-const PriceForm = ({ onChange }) =>
-  SingleChoiceForm({ question, inputName, keyValue, onChange });
+const PriceForm = ({ onChange, value }) =>
+  SingleChoiceForm({ question, inputName, keyValue, onChange, checked: value });
 
 export { inputName, PriceForm };

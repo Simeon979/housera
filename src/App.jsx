@@ -1,26 +1,24 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
-import styled from "styled-components";
 
 import Landing from "./Landing";
 import AppForm from "./AppForm";
-
-const Main = styled.main`
-  height: 100%;
-  flex: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-`;
+import Listings from "./Listings";
+import SingleListing from "./SingleListing";
+import { SearchForm } from "./Forms/Search";
 
 const App = () => {
   return (
-    <Main>
+    <main>
       <Switch>
         <Route exact path="/" component={Landing} />
+        <Route path="/housera" component={Landing} />
+        <Route exact path="/listings" component={Listings} />
+        <Route path="/listings/:id" component={SingleListing} />
+        <Route path="/search" component={SearchForm} />
         <Route component={AppForm} />
       </Switch>
-    </Main>
+    </main>
   );
 };
 

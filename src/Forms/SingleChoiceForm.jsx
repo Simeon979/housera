@@ -1,11 +1,12 @@
 import React from "react";
+import PropType from "prop-types";
 import styled from "styled-components";
 
 const FormContainer = styled.fieldset`
   width: 80%;
-  margin: auto;
   border: 2px solid;
   border-color: #6dd5ed #2193b0;
+  padding-bottom: 1.5rem;
 `;
 
 const FormQuestion = styled.legend`
@@ -58,12 +59,13 @@ const FormInput = styled.input`
       #2193b0
     ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: white;
+    font-weight: bold;
   }
 `;
 const FormLabel = styled.label`
   display: block;
   border: 1px solid #6dd5ed;
-  padding: 20px;
+  padding: 10px;
   cursor: pointer;
   opacity: 0.5;
   transition: all 0.3s;
@@ -74,7 +76,7 @@ const FormLabel = styled.label`
   }
 `;
 
-const Form = ({ question, inputName, keyValue, onChange }) => {
+const Form = ({ question, inputName, keyValue, onChange, checked }) => {
   return (
     <FormContainer>
       <FormQuestion>{question}</FormQuestion>
@@ -87,6 +89,7 @@ const Form = ({ question, inputName, keyValue, onChange }) => {
               id={value}
               value={value}
               onChange={onChange}
+              checked={checked === value}
               required
             />
             <FormLabel htmlFor={value}>{key}</FormLabel>
@@ -95,6 +98,14 @@ const Form = ({ question, inputName, keyValue, onChange }) => {
       </OptionContainer>
     </FormContainer>
   );
+};
+
+Form.propTypes = {
+  question: PropType.string.isRequired,
+  inputName: PropType.string.isRequired,
+  keyValue: PropType.arrayOf(PropType.arrayOf(PropType.string)).isRequired,
+  onChange: PropType.func.isRequired,
+  checked: PropType.string.isRequired,
 };
 
 export default Form;

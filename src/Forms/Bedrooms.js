@@ -9,7 +9,7 @@ const keyValue = [
   ["4+", "fourAndAbove"]
 ];
 
-const BedroomForm = ({ onChange }) =>
-  SingleChoiceForm({ question, inputName, keyValue, onChange });
+const BedroomForm = ({ onChange, value }) =>
+  SingleChoiceForm({ question, inputName, keyValue, onChange, checked: value });
 
 export { inputName, BedroomForm };

@@ -6,12 +6,14 @@ import { BrowserRouter } from "react-router-dom";
 
 import App from "./App";
 import NavBar from "./Nav/NavBar";
+import Footer from "./Footer";
 
 ReactDOM.render(
   <>
-    <NavBar />
     <BrowserRouter>
+      <NavBar />
       <App />
+      <Footer />
     </BrowserRouter>
   </>,
   document.getElementById("root")
