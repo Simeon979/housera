@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ef4c3e26f5698683bcf693d6a17f5cc",
+    "revision": "88b30f43c4596285e58895a21205d7ea",
     "url": "/housera/index.html"
   },
   {
-    "revision": "a28331ebdd7b58abe926",
+    "revision": "15d7459690be0dce5bc0",
     "url": "/housera/static/css/main.3282f0e7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/housera/static/js/2.717ab299.chunk.js"
   },
   {
-    "revision": "a28331ebdd7b58abe926",
-    "url": "/housera/static/js/main.c6d07742.chunk.js"
+    "revision": "15d7459690be0dce5bc0",
+    "url": "/housera/static/js/main.c084ab5e.chunk.js"
   },
   {
     "revision": "2629340076ddf88519b9",
