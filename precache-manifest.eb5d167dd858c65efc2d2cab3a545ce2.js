@@ -1,27 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24725acf45bf431654d6f97925be5a11",
+    "revision": "58440f8ef33933f88042d6265d48eb12",
     "url": "/housera/index.html"
   },
   {
-    "revision": "c2c8c3fb61dd176b0f34",
-    "url": "/housera/static/css/main.7c1dab15.chunk.css"
+    "revision": "4cd17a43e77ddca76b3d",
+    "url": "/housera/static/css/main.3282f0e7.chunk.css"
   },
   {
-    "revision": "834dcdea3cf0a181da4e",
-    "url": "/housera/static/js/2.c22a8f94.chunk.js"
+    "revision": "4a3491d53658e1ff5ed8",
+    "url": "/housera/static/js/2.609cc0bc.chunk.js"
   },
   {
-    "revision": "c2c8c3fb61dd176b0f34",
-    "url": "/housera/static/js/main.66a16a4c.chunk.js"
+    "revision": "4cd17a43e77ddca76b3d",
+    "url": "/housera/static/js/main.551ceb86.chunk.js"
   },
   {
     "revision": "2629340076ddf88519b9",
     "url": "/housera/static/js/runtime-main.32fc8177.js"
-  },
-  {
-    "revision": "206fa0cb9016633dfbc828bf6afe210d",
-    "url": "/housera/static/media/background.206fa0cb.svg"
   },
   {
     "revision": "349934b31b3b7d587193c60558a6a939",
@@ -38,14 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "15583a2d0c33b743b9d139b758723093",
     "url": "/housera/static/media/center-right.15583a2d.svg"
-  },
-  {
-    "revision": "b35c1cac6e9ee6260e99b976cfe4f572",
-    "url": "/housera/static/media/cloud1.b35c1cac.svg"
-  },
-  {
-    "revision": "f4d2bff6147a2c9caf7547e2ed6c009d",
-    "url": "/housera/static/media/cloud2.f4d2bff6.svg"
   },
   {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
@@ -106,6 +94,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2801fb415f03c7b170934769d7b5397",
     "url": "/housera/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  {
+    "revision": "d526339c0f9f3e6fbf82f058c5c70e81",
+    "url": "/housera/static/media/hero-mid.d526339c.jpg"
+  },
+  {
+    "revision": "1d427648ef63667c69cfb02daa43fcd1",
+    "url": "/housera/static/media/hero-small.1d427648.jpg"
+  },
+  {
+    "revision": "e81daa6781e17e269e4bde1015452838",
+    "url": "/housera/static/media/home.e81daa67.jpg"
+  },
+  {
+    "revision": "e271df6e38a4119436ff74753582912f",
+    "url": "/housera/static/media/listing1.e271df6e.jpg"
+  },
+  {
+    "revision": "33f0b59e74e8fc5a5143c482b59ac365",
+    "url": "/housera/static/media/listing2.33f0b59e.jpg"
+  },
+  {
+    "revision": "0c52df5bbe76ddf0fdee07b683eadf98",
+    "url": "/housera/static/media/listing3.0c52df5b.jpg"
   },
   {
     "revision": "73f2feb9baccd4d46fe9916c5abc141e",

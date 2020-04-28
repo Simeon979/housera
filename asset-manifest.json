@@ -1,30 +1,33 @@
 {
   "files": {
-    "main.css": "/housera/static/css/main.7c1dab15.chunk.css",
-    "main.js": "/housera/static/js/main.66a16a4c.chunk.js",
-    "main.js.map": "/housera/static/js/main.66a16a4c.chunk.js.map",
+    "main.css": "/housera/static/css/main.3282f0e7.chunk.css",
+    "main.js": "/housera/static/js/main.551ceb86.chunk.js",
+    "main.js.map": "/housera/static/js/main.551ceb86.chunk.js.map",
     "runtime-main.js": "/housera/static/js/runtime-main.32fc8177.js",
     "runtime-main.js.map": "/housera/static/js/runtime-main.32fc8177.js.map",
-    "static/js/2.c22a8f94.chunk.js": "/housera/static/js/2.c22a8f94.chunk.js",
-    "static/js/2.c22a8f94.chunk.js.map": "/housera/static/js/2.c22a8f94.chunk.js.map",
+    "static/js/2.609cc0bc.chunk.js": "/housera/static/js/2.609cc0bc.chunk.js",
+    "static/js/2.609cc0bc.chunk.js.map": "/housera/static/js/2.609cc0bc.chunk.js.map",
     "index.html": "/housera/index.html",
-    "precache-manifest.80765f4842a9f3e902fa7e6b76c2fe34.js": "/housera/precache-manifest.80765f4842a9f3e902fa7e6b76c2fe34.js",
+    "precache-manifest.eb5d167dd858c65efc2d2cab3a545ce2.js": "/housera/precache-manifest.eb5d167dd858c65efc2d2cab3a545ce2.js",
     "service-worker.js": "/housera/service-worker.js",
-    "static/css/main.7c1dab15.chunk.css.map": "/housera/static/css/main.7c1dab15.chunk.css.map",
-    "static/media/background.svg": "/housera/static/media/background.206fa0cb.svg",
+    "static/css/main.3282f0e7.chunk.css.map": "/housera/static/css/main.3282f0e7.chunk.css.map",
     "static/media/bottom-left.svg": "/housera/static/media/bottom-left.349934b3.svg",
     "static/media/bottom.svg": "/housera/static/media/bottom.6cd04e51.svg",
     "static/media/center-left.svg": "/housera/static/media/center-left.f71fa65f.svg",
     "static/media/center-right.svg": "/housera/static/media/center-right.15583a2d.svg",
-    "static/media/cloud1.svg": "/housera/static/media/cloud1.b35c1cac.svg",
-    "static/media/cloud2.svg": "/housera/static/media/cloud2.f4d2bff6.svg",
     "static/media/all.css": "/housera/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/hero-mid.jpg": "/housera/static/media/hero-mid.d526339c.jpg",
+    "static/media/hero-small.jpg": "/housera/static/media/hero-small.1d427648.jpg",
+    "static/media/home.jpg": "/housera/static/media/home.e81daa67.jpg",
+    "static/media/listing1.jpg": "/housera/static/media/listing1.e271df6e.jpg",
+    "static/media/listing2.jpg": "/housera/static/media/listing2.33f0b59e.jpg",
+    "static/media/listing3.jpg": "/housera/static/media/listing3.0c52df5b.jpg",
     "static/media/top-left.svg": "/housera/static/media/top-left.73f2feb9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.32fc8177.js",
-    "static/js/2.c22a8f94.chunk.js",
-    "static/css/main.7c1dab15.chunk.css",
-    "static/js/main.66a16a4c.chunk.js"
+    "static/js/2.609cc0bc.chunk.js",
+    "static/css/main.3282f0e7.chunk.css",
+    "static/js/main.551ceb86.chunk.js"
   ]
 }
