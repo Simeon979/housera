@@ -1,0 +1,16 @@
+@tailwind base;
+body {
+  @apply flex flex-col min-h-screen;
+}
+
+main {
+  @apply flex-1;
+}
+
+.hero p {
+  @apply mb-3;
+}
+
+@tailwind components;
+
+@tailwind utilities;
